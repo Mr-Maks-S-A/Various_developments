@@ -1,0 +1,6 @@
+[submodule "Systems/SPSC_EventQueue/Tests/doctest"]
+	path = Systems/SPSC_EventQueue/Tests/doctest
+	url = git@github.com:doctest/doctest.git
+[submodule "Systems/SPSC_EventQueue/Benchmarks/benchmark"]
+	path = Systems/SPSC_EventQueue/Benchmarks/benchmark
+	url = git@github.com:google/benchmark.git
